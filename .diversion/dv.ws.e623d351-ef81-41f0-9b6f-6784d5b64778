@@ -1,0 +1,14 @@
+{
+  "WorkspaceID": "dv.ws.e623d351-ef81-41f0-9b6f-6784d5b64778",
+  "RepoID": "dv.repo.ddc9144f-17e4-4c8f-a1dc-69d7e12f4404",
+  "Path": "C:\\Users\\kiran\\OneDrive\\Documents\\Unreal Projects\\RepublicOfGorf",
+  "AccountID": "Google_115963842175789301162",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.1",
+  "Paused": false,
+  "ShouldDownload": true,
+  "RepoName": "RepublicOfGorf",
+  "ReadOnly": false,
+  "DigestMethod": "sha1"
+}
